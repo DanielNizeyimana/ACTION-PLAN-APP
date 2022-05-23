@@ -1,0 +1,178 @@
+/* body {
+  background-image: url("img/josh-sorenson-nVeTGyYosKY-unsplash.jpg");
+  background-size: cover;
+}
+.container {
+  padding: 100px;
+}
+input[type="text"],input[type="password"],
+select {
+  padding: 20px;
+  width: 15rem;
+  border-radius: 10px;
+  margin-top: 20px;
+  text-align: center;
+  border: none;
+}
+input[type="text"]:focus,
+input[type="password"]:focus,select:focus {
+  padding: 20px;
+  width: 15rem;
+  border-radius: 10px;
+  margin-top: 20px;
+  text-align: center;
+  border-color: tomato;
+  border-style: solid;
+  outline: none;
+}
+.header {
+  background-color: #499f68;
+  padding: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+input[type="submit"] {
+  padding: 20px;
+  width: 10rem;
+  border-radius: 10px;
+  margin-top: 20px;
+  text-align: center;
+  align-content: center;
+  border: none;
+  background-color: #03cea4;
+  font-weight: bolder;
+  font-size: large;
+  margin-bottom: 20px;
+}
+input[type="submit"]:hover {
+  padding: 20px;
+  width: 10rem;
+  border-radius: 10px;
+  margin-top: 20px;
+  text-align: center;
+  align-content: center;
+  background-color: #03a182fa;
+  font-weight: bolder;
+  font-size: large;
+  margin-bottom: 20px;
+  color: white;
+}
+.tablecontainer {
+  background-color: #004346;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+ul {
+  list-style-type: none;
+  margin-left: -10px;
+  margin-top: -10px;
+  padding: 0;
+  width: 20%;
+  height: 100%;
+  background-color: #004346;
+  position: fixed;
+  overflow: auto;
+}
+li a,
+i {
+  text-decoration: none;
+  margin-top: 2px;
+  padding: 10px;
+  display: block;
+  font-size: larger;
+  font-weight: bolder;
+  color: white;
+}
+li:hover {
+  background-color: #03a1818c;
+}
+.active {
+  background-color: #03a1818c;
+  color: black;
+}
+.flex {
+  display: flex;
+}
+.inactive,
+.inactive:hover {
+  background-color: #004346;
+  color: white;
+  text-decoration: none;
+  margin-top: 2px;
+  padding: 20px;
+  display: block;
+  font-size: larger;
+  font-weight: bolder;
+}
+.titlehome {
+  padding: 30px;
+  background-color: #004346;
+  margin-left: 18%;
+  margin-right: 18%;
+  margin-top: -10px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: x-large;
+  font-weight: bolder;
+  position: fixed;
+  overflow: auto;
+}
+.iframe {
+  margin-left: 21%;
+  background-color: #004346d7;
+  padding: 40px;
+  width: 100%;
+}
+td {
+  padding: 5px;
+  text-align: center;
+  align-content: center;
+  padding-left: 20px;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+th {
+  background-color: #03a181;
+  color: white;
+}
+.tr:hover {
+  background-color: #03a1818c;
+  color: white;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+.td a{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+.td:hover{
+  text-decoration: none;
+  color: white;
+  background-color: tomato;
+  text-align: center;
+}
+td{
+  color: white;
+}
+.logout{
+  margin-top:80%;
+  
+}
+.logout:hover{
+  margin-top:80%;
+  background-color: tomato;
+} */
+
+.width{
+  width: 100%;
+}
